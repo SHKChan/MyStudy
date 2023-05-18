@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImageViewer", "ImageViewer\ImageViewer.vcxproj", "{F4536E04-D557-4EE2-80A3-5711B41E67AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4536E04-D557-4EE2-80A3-5711B41E67AD}.Debug|x86.ActiveCfg = Debug|Win32
+		{F4536E04-D557-4EE2-80A3-5711B41E67AD}.Debug|x86.Build.0 = Debug|Win32
+		{F4536E04-D557-4EE2-80A3-5711B41E67AD}.Release|x86.ActiveCfg = Release|Win32
+		{F4536E04-D557-4EE2-80A3-5711B41E67AD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A897FEE-6A69-45FE-9934-4FC6544AA627}
+	EndGlobalSection
+EndGlobal
